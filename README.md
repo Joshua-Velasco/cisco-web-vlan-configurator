@@ -7,8 +7,9 @@
 
 A powerful, web-based tool designed to streamline the creation of Cisco switch configurations. It allows network engineers and students to visually design their network topology, manage VLANs, assign ports, and automatically generate the necessary CLI commands for deployment.
 
-![App Screenshot](https://via.placeholder.com/1200x600?text=App+Screenshot+Placeholder)
-_Replace this with an actual screenshot of your application_
+![Project Preview](assets/screenshot1.png)
+![Management View](assets/screenshot2.png)
+_Vistas de la interfaz de configuración y gestión de red_
 
 ## 🚀 Features
 
