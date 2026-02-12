@@ -9,7 +9,6 @@ A powerful, web-based tool designed to streamline the creation of Cisco switch c
 
 ![Project Preview](assets/screenshot1.png)
 ![Management View](assets/screenshot2.png)
-_Vistas de la interfaz de configuración y gestión de red_
 
 ## 🚀 Features
 
